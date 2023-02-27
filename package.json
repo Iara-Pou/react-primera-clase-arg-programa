@@ -1,0 +1,24 @@
+{
+  "name": "react-primera-clase-arg-programa",
+  "version": "1.0.0",
+  "description": "Ejercicio de primer clase de React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iara-Pou/react-primera-clase-arg-programa.git"
+  },
+  "keywords": [
+    "react",
+    "principiantes",
+    "argentina-programa"
+  ],
+  "author": "Iara Pou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iara-Pou/react-primera-clase-arg-programa/issues"
+  },
+  "homepage": "https://github.com/Iara-Pou/react-primera-clase-arg-programa#readme"
+}
