@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Iara-Pou/react-primera-clase-arg-programa/issues"
   },
-  "homepage": "https://github.com/Iara-Pou/react-primera-clase-arg-programa#readme"
+  "homepage": "https://github.com/Iara-Pou/react-primera-clase-arg-programa#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
